@@ -1,0 +1,17 @@
+.badge {
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+
+  &.red {
+    background-color: var(--badgeRed);
+  }
+
+  &.green {
+    background-color: var(--badgeGreen);
+  }
+
+  &.grey {
+    background-color: var(--badgeGrey);
+  }
+}

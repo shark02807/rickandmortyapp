@@ -1,0 +1,49 @@
+.card {
+  width: 210px;
+  margin-bottom: 40px;
+
+  @media (--tablet-large) {
+    width: 40%;
+  }
+
+  @media (--mobile) {
+    width: 70%;
+  }
+
+  @media (--mobile-min) {
+    width: 90%;
+  }
+}
+
+.image {
+  border-radius: 6px 6px 0 0;
+}
+
+.status {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+.badge {
+  margin-right: 5px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.location {
+  margin-top: 10px;
+}
+
+.label {
+  font-size: 14px;
+  color: var(--colorGrey1);
+}
+
+.locationName {
+  font-size: 16px;
+}

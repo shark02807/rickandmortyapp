@@ -1,0 +1,31 @@
+.header {
+  height: 40vh;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--colorRaMBrown1);
+  border-bottom: 1px solid var(--colorRaMPurple);
+}
+
+.backgroundContainer {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url('/src/assets/Pickle_Rick.webp');
+  opacity: 0.06;
+}
+
+.title {
+  z-index: 1;
+  font-size: 5rem;
+  text-align: center;
+  margin: 0;
+}
+
+.main {
+  min-height: 60vh;
+  background-color: var(--colorRaMBrown3);
+  display: flex;
+  justify-content: center;
+}
