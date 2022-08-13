@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.8261f45c.chunk.css",
-    "main.js": "/static/js/main.22386b05.chunk.js",
-    "main.js.map": "/static/js/main.22386b05.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.08a2b9f8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.08a2b9f8.js.map",
-    "static/css/2.195691b7.chunk.css": "/static/css/2.195691b7.chunk.css",
-    "static/js/2.46135a8e.chunk.js": "/static/js/2.46135a8e.chunk.js",
-    "static/js/2.46135a8e.chunk.js.map": "/static/js/2.46135a8e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.195691b7.chunk.css.map": "/static/css/2.195691b7.chunk.css.map",
-    "static/css/main.8261f45c.chunk.css.map": "/static/css/main.8261f45c.chunk.css.map",
-    "static/js/2.46135a8e.chunk.js.LICENSE.txt": "/static/js/2.46135a8e.chunk.js.LICENSE.txt",
-    "static/media/style.module.css": "/static/media/Pickle_Rick.3ca01cda.webp",
-    "static/media/index.css": "/static/media/Poppins-Thin.59ff6a72.ttf",
-    "static/media/primeicons.css": "/static/media/primeicons.c6e20533.svg"
+    "main.css": "/rickandmortyapp/static/css/main.73845184.chunk.css",
+    "main.js": "/rickandmortyapp/static/js/main.22386b05.chunk.js",
+    "main.js.map": "/rickandmortyapp/static/js/main.22386b05.chunk.js.map",
+    "runtime-main.js": "/rickandmortyapp/static/js/runtime-main.4de2ba9b.js",
+    "runtime-main.js.map": "/rickandmortyapp/static/js/runtime-main.4de2ba9b.js.map",
+    "static/css/2.ba8d71ac.chunk.css": "/rickandmortyapp/static/css/2.ba8d71ac.chunk.css",
+    "static/js/2.dcacd5b4.chunk.js": "/rickandmortyapp/static/js/2.dcacd5b4.chunk.js",
+    "static/js/2.dcacd5b4.chunk.js.map": "/rickandmortyapp/static/js/2.dcacd5b4.chunk.js.map",
+    "index.html": "/rickandmortyapp/index.html",
+    "static/css/2.ba8d71ac.chunk.css.map": "/rickandmortyapp/static/css/2.ba8d71ac.chunk.css.map",
+    "static/css/main.73845184.chunk.css.map": "/rickandmortyapp/static/css/main.73845184.chunk.css.map",
+    "static/js/2.dcacd5b4.chunk.js.LICENSE.txt": "/rickandmortyapp/static/js/2.dcacd5b4.chunk.js.LICENSE.txt",
+    "static/media/style.module.css": "/rickandmortyapp/static/media/Pickle_Rick.3ca01cda.webp",
+    "static/media/index.css": "/rickandmortyapp/static/media/Poppins-Thin.59ff6a72.ttf",
+    "static/media/primeicons.css": "/rickandmortyapp/static/media/primeicons.c6e20533.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.08a2b9f8.js",
-    "static/css/2.195691b7.chunk.css",
-    "static/js/2.46135a8e.chunk.js",
-    "static/css/main.8261f45c.chunk.css",
+    "static/js/runtime-main.4de2ba9b.js",
+    "static/css/2.ba8d71ac.chunk.css",
+    "static/js/2.dcacd5b4.chunk.js",
+    "static/css/main.73845184.chunk.css",
     "static/js/main.22386b05.chunk.js"
   ]
 }
