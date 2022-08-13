@@ -1,5 +1,11 @@
 # The Rick and Morty APP
 
+The App using the Rick & Morty API (rickandmortyapi.com) displays the profiles of the characters.
+
+## Public URL
+
+[The Rick and Morty APP](https://shark02807.github.io/rickandmortyapp)
+
 ## Stacks
 
 -   React
