@@ -33,7 +33,7 @@ const useController = () => {
     window.scrollTo(0, 0);
     const navigateToPage = basicFirst / 20 + 1;
     navigate({
-      pathname: `/characters/`,
+      pathname: `/rickandmortyapp/`,
       search: `?page=${navigateToPage}`
     });
   }, [basicFirst, navigate]);

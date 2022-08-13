@@ -9,12 +9,12 @@ import styles from './style.module.css';
 
 const Characters = () => {
   const { pageNumber } = useUrlParams();
-  
+
   return (
     <>
       {
         (!pageNumber || pageNumber === null)
-          ? <Navigate replace to='/characters/?page=1' />
+          ? <Navigate replace to='/rickandmortyapp/?page=1' />
           : (
             <>
               <header className={styles.header}>
