@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/shark02807/rickandmortyapp.git"
   },
+  "homepage": "https://shark02807.github.io/rickandmortyapp/",
   "scripts": {
     "build:css": "postcss src/styles/index.css -o src/index.css",
     "watch:css": "postcss src/styles/index.css -o src/index.css -w",
